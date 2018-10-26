@@ -37,9 +37,7 @@ weight = 5
 
 # About me
 
-I am an Assistant Professor in the [College of Education and Human Development](http://www.cehd.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). My research is at the intersection of [CSCL](https://en.wikipedia.org/wiki/Computer-supported_collaborative_learning), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network analysis](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the [NSF CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657009), the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota. 
-
-See [CoLIG](https://colig.github.io/research/) for my research projects.
+I am an Assistant Professor in the [College of Education and Human Development](http://www.cehd.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). My research is at the intersection of [CSCL](https://en.wikipedia.org/wiki/Computer-supported_collaborative_learning), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network analysis](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the [NSF CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657009), the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota.
 
 <hr>
 
