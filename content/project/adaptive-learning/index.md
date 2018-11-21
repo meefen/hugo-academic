@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Adaptive Learning"
+title = "Adaptive Learning in General Chemistry"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "The study is looking to predict outcomes and develop interventions based on student learning behaviors in an adaptive learning environment adopted in 1000-level chemistry courses."
+summary = "To predict outcomes and develop interventions based on student learning behaviors."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

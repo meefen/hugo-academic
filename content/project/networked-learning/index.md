@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Knowledge Building: Theory and Design"
+title = "Networked Learning Environments and Analytics"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Researching and promoting the Knowledge Building theory of learning, pedagogy, and technology."
+summary = "To examine networked learning processes, and design networked learning environments and social learning analytics."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Design-Based Research", "CSCL"]
+tags = ["Design-Based Research", "Higher Education", "Learning Analytics", "Open Pedagogy"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://colig.github.io/projects/kb.html"
+external_link = "https://colig.github.io/projects/nlea.html"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

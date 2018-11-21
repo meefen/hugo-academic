@@ -34,12 +34,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Learning Sciences"
-  tag = "Learning Sciences"
+  name = "CSCL"
+  tag = "CSCL"
 
 [[filter]]
   name = "Learning Analytics"
   tag = "Learning-Analytics"
+
+[[filter]]
+  name = "Open Pedagogy"
+  tag = "Open Pedagogy"
 
 [[filter]]
   name = "Higher Education"
