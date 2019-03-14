@@ -25,7 +25,7 @@ Below is a newly installed automatic paper towel dispenser in our office buildin
 
 ![](automatic-towel-dispenser.JPG)
 
-Below is a picture of a fancy hand wash station I saw during last week's conference travel. It neatly integrates the soap dispenser, a water tap, and a hand dryer together. There are at least three sensors built in this integrated system. It's probably based on a zero-paper consumption philosophy, and has fundamentally transformed one's hand-washing process. 
+Below is a picture of a fancy hand wash station I saw during last week's conference travel. It neatly integrates a soap dispenser, a water tap, and a hand dryer together. There are at least three sensors built in this integrated system. It's probably based on a zero-paper consumption philosophy, and has fundamentally transformed one's hand-washing process. 
 
 ![](hand-wash-station.JPG)
 
