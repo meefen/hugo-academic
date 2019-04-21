@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "Link to [a full CV (PDF)](/file/Chen-CV-pub.pdf)."
 
 # Order that this section will appear in.
 weight = 40
@@ -36,4 +36,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
