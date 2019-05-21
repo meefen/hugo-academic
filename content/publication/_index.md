@@ -15,3 +15,6 @@ list_format = 3
 image = ""
 caption = ""
 +++
+
+### Link to [my CV (PDF)](/file/Chen-CV-pub.pdf). 
+<br>
