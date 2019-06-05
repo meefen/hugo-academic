@@ -6,14 +6,14 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://meefen.github.io/"
+baseurl = "https://bodong.me"
 
 # Title of your site
 title = "Bodong Chen"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Bodong Chen"
+copyright = "&copy; 2019 Bodong Chen"
 
 theme = "academic"
 enableEmoji = true
@@ -113,7 +113,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "bod0ng"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
