@@ -1,18 +1,17 @@
-+++
-title = "Open Scholarship"
-date = 2017-01-01T00:00:00
+---
+title: "Open Scholarship"
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-list_format = 2
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 1
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
 > [*Open Scholarship*](http://www.openscholarship.org/jcms/c_6160/en/open-scholarship) "encompasses open access, open data, open educational resources, and all other forms of openness in the scholarly and research environment, [and] is changing how knowledge is created and shared." -- [Association of Research Libraries](http://www.arl.org/focus-areas/open-scholarship#.V9IhqZMrLwc)
 
