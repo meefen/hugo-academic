@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: PhD in Learning Sciences
-    institution: University of Toronto
+    institution: OISE/University of Toronto
     year: 2014
   - course: MEd in Educational Technology
     institution: Peking University
@@ -46,24 +46,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'chenbd@umn.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bod0ng
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=BWrZE-MAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Bodong_Chen
 - icon: github
   icon_pack: fab
   link: https://github.com/meefen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: file/Chen-CV-pub.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "chenbd@umn.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
