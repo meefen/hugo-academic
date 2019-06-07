@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an Associate Professor in the [College of Education and Human Development](http://www.cehd.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). My research is at the intersection of [knowledge building](https://en.wikipedia.org/wiki/Knowledge_building), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network analysis](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the [NSF CRII](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657009), the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota.
+bio: Associate Professor in learning technologies at the University of Minnesota.
 
 interests:
 - CSCL
