@@ -77,10 +77,11 @@ user_groups:
 
 # About me
 
-I am an Associate Professor in the [College of Education and Human Development](http://www.cehd.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). Holding the Bonnie Westby Huebner Endowed Chair in Education & Technology, my research is at the intersection of [knowledge building](https://en.wikipedia.org/wiki/Knowledge_building), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network analysis](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the NSF, the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota.
+I am an Associate Professor in the [College of Education and Human Development](http://www.cehd.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). Holding the Bonnie Westby Huebner Endowed Chair in Education & Technology, I research at the intersection of [learning sciences](https://www.isls.org/), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network science](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the NSF, the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota.
+<!-- [knowledge building](https://en.wikipedia.org/wiki/Knowledge_building),  -->
 
 <hr>
 
-陈伯栋，明尼苏达大学教育与人类发展学院副教授、许布纳讲席教授。主要研究方向包括：计算机支持的协作学习、学习分析学、网络分析、网络学习。
+陈伯栋，明尼苏达大学教育与人类发展学院副教授、许布纳讲席教授。主要研究方向包括：学习科学、学习分析学、网络学习、网络分析。
 
 研究项目参见[研究组网站](https://colig.github.io/research/)。
