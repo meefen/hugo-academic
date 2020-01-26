@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "Link to [a full CV (PDF)](/file/Chen-CV-pub.pdf)."
+subtitle = "[See more >](/publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -35,7 +35,7 @@ subtitle = "Link to [a full CV (PDF)](/file/Chen-CV-pub.pdf)."
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.

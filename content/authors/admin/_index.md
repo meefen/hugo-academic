@@ -21,6 +21,7 @@ organizations:
 bio: Associate Professor in learning technologies at the University of Minnesota.
 
 interests:
+- Learning Sciences
 - CSCL
 - Learning Analytics
 - Online Learning
@@ -56,9 +57,15 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Bodong_Chen
+- icon: slideshare
+  icon_pack: fab
+  link: https://speakerdeck.com/bodong
 - icon: github
   icon_pack: fab
   link: https://github.com/meefen
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4616-4353
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -77,11 +84,12 @@ user_groups:
 
 # About me
 
-I am an Associate Professor in the [College of Education and Human Development](http://www.cehd.umn.edu/) at the [University of Minnesota](https://twin-cities.umn.edu/). Holding the Bonnie Westby Huebner Endowed Chair in Education & Technology, I research at the intersection of [learning sciences](https://www.isls.org/), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network science](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the NSF, the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota.
+I am an **Associate Professor** in *Learning Technologies* and the **Bonnie Westby Huebner Endowed Chair** in *Education & Technology* at the [University of Minnesota](https://twin-cities.umn.edu/). I also co-direct the newly formed **Learning Informatics Lab** of the [College of Education and Human Development](http://www.cehd.umn.edu/). My research is at the intersection of [learning sciences](https://www.isls.org/), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), 
 <!-- [knowledge building](https://en.wikipedia.org/wiki/Knowledge_building),  -->
+[networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network science](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the NSF, the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota.
 
-<hr>
+<!-- <hr>
 
 陈伯栋，明尼苏达大学教育与人类发展学院副教授、许布纳讲席教授。主要研究方向包括：学习科学、学习分析学、网络学习、网络分析。
 
-研究项目参见[研究组网站](https://colig.github.io/research/)。
+研究项目参见[研究组网站](https://colig.github.io/research/)。 -->
