@@ -19,7 +19,7 @@ I teach the following courses in the Department of Curriculum and Instruction at
 __CI 8371: Applied Social Network Analysis in Education__\*
 
 - An introduction to social network analysis for graduate students in education
-- [Spring '17](http://bookdown.org/chen/snaEd/)
+- [Spring '19](http://bookdown.org/chen/snaEd/), [Spring '17](http://bookdown.org/chen/snaEd/)
 
 __CI 8134-35: Foundations of Research in Curriculum and Instruction__
 
@@ -29,7 +29,7 @@ __CI 8134-35: Foundations of Research in Curriculum and Instruction__
 __CI 5371: Learning Analytics: Theory and Practice__\*
 
 - A general survey of the nascent field of learning analytics and its applications in various educational contexts
-- [Fall '18](https://colig.github.io/laumn/), [Spring '16](https://github.com/meefen/la-spring16), [Spring '15](https://github.com/meefen/LA-UMN)
+- Fall '20, [Fall '19](https://colig.github.io/laumn/), [Fall '18](https://colig.github.io/laumn/), [Spring '16](https://github.com/meefen/la-spring16), [Spring '15](https://github.com/meefen/LA-UMN)
 
 __CI 5301: Foundations of Computer Applications for Business and Education__
 

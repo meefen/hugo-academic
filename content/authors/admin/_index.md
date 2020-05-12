@@ -84,7 +84,7 @@ user_groups:
 
 # About me
 
-I am an **Associate Professor** in *Learning Technologies* and the **Bonnie Westby Huebner Endowed Chair** in *Education & Technology* at the [University of Minnesota](https://twin-cities.umn.edu/). I also co-direct the newly formed **Learning Informatics Lab** of the [College of Education and Human Development](http://www.cehd.umn.edu/). My research is at the intersection of [learning sciences](https://www.isls.org/), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network science](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the NSF, the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota.
+I am an **Associate Professor** in *Learning Technologies* and the **Bonnie Westby Huebner Endowed Chair** in *Education & Technology* at the [University of Minnesota](https://twin-cities.umn.edu/). I also co-direct the newly formed **[Learning Informatics Lab](https://innovation.umn.edu/informatics/)** of the [College of Education and Human Development](http://www.cehd.umn.edu/). My research is at the intersection of [learning sciences](https://www.isls.org/), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network science](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the NSF, the [Digital Learning for Development initiative](http://dl4d.org/), the University of Minnesota.
 
 <!-- [knowledge building](https://en.wikipedia.org/wiki/Knowledge_building),  -->
 
