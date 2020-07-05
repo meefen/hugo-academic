@@ -21,7 +21,6 @@ organizations:
 bio: Associate Professor in learning technologies at the University of Minnesota.
 
 interests:
-- Learning Sciences
 - CSCL
 - Learning Analytics
 - Online Learning
@@ -45,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bod0ng
@@ -60,9 +59,9 @@ social:
 - icon: slideshare
   icon_pack: fab
   link: https://speakerdeck.com/bodong
-- icon: github
-  icon_pack: fab
-  link: https://github.com/meefen
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/meefen
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-4616-4353
@@ -70,7 +69,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: file/Chen-CV-pub.pdf
+  link: file/Chen-CV-short.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "chenbd@umn.edu"
@@ -84,7 +83,7 @@ user_groups:
 
 # About me
 
-I am an Associate Professor in [Learning Technologies](https://lt.umn.edu/) and the Bonnie Westby Huebner Endowed Chair in Education & Technology at the [University of Minnesota](https://twin-cities.umn.edu/). I also co-direct the newly formed [Learning Informatics Lab](https://innovation.umn.edu/informatics/) of the [College of Education and Human Development](http://www.cehd.umn.edu/). My research is at the intersection of [learning sciences](https://www.isls.org/), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network science](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the NSF, Schmidt Futures, the Digital Learning for Development initiative, the University of Minnesota.
+I am an Associate Professor in [Learning Technologies](https://lt.umn.edu/) and the Bonnie Westby Huebner Endowed Chair in Education & Technology at the [University of Minnesota](https://twin-cities.umn.edu/). I also co-direct the newly formed [Learning Informatics Lab](https://innovation.umn.edu/informatics/) of the [College of Education and Human Development](http://www.cehd.umn.edu/). My research is at the intersection of [CSCL](https://www.isls.org/about/committees/cscl-committee), [learning analytics](https://en.wikipedia.org/wiki/Learning_analytics), [networked learning](https://en.wikipedia.org/wiki/Networked_learning), and [network science](https://en.wikipedia.org/wiki/Network_science). My work is broadly published in premier venues and funded by the NSF, Schmidt Futures, the Digital Learning for Development initiative, the University of Minnesota.
 
 <!-- [knowledge building](https://en.wikipedia.org/wiki/Knowledge_building),  -->
 
