@@ -14,7 +14,7 @@ subtitle = "See all pubs in [my CV](/file/cv-pub.html)."
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 7
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -35,7 +35,7 @@ subtitle = "See all pubs in [my CV](/file/cv-pub.html)."
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
