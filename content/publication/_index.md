@@ -16,5 +16,5 @@ image = ""
 caption = ""
 +++
 
-### Link to [my CV (PDF)](/file/Chen-CV-short.pdf). 
+### Link to [my CV (PDF)](/file/BChen-CV-short.pdf). 
 <br>
