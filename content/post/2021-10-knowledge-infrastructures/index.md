@@ -5,7 +5,7 @@ title: "Knowledge Infrastructures: Initial Thoughts"
 subtitle: ""
 summary: "Some initial thoughts on knowledge infrastructures and what it means for knowledge building."
 authors: [Bodong Chen]
-tags: [knowledge infrastructures; knowledge building]
+tags: ["knowledge infrastructures", "knowledge building"]
 categories: []
 date: 2021-10-19T12:31:47-05:00
 lastmod: 2021-10-19T12:31:47-05:00

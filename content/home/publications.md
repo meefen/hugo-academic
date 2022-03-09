@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "See all pubs in [my CV](/file/cv-pub.html)."
+subtitle = "See all pubs in [my CV (PDF)](/file/BChen-CV-short.pdf)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
